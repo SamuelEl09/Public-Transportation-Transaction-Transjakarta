@@ -31,16 +31,13 @@ Key Objectives:
 │   ├── raw            <- Data from third party sources.
 │   └── cleaned        <- The data that has been cleaned.
 │
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
+├── notebooks          <- Jupyter notebooks.
 │
 ├── reports            <- Generated analysis as PowerPoint, PDF, LaTeX, etc.
 |   ├── slide          <- Generated PowerPoint
 │   └── figures        <- Generated graphics and figures to be used in reporting
 │
-├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-│                         generated with `pip freeze > requirements.txt`
+├── requirements.txt   <- The requirements file for reproducing the analysis environment.
 │
 └── src                <- Source code for use in this project.
 
